@@ -8,4 +8,4 @@ Learning Python from scratch by drawing ASCII clovers, to develop an understandi
 - **lesson-03-functions** — defining and calling functions
 - **lesson-04-parameters** — passing inputs into a function
 - **lesson-05-loops** — lists and `for` loops
-- **lesson-06-decisions** — choosing ducks with `if` / `else`
+- **lesson-06-decisions** — choosing clovers with `if` / `else`
